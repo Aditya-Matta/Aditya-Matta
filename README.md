@@ -69,8 +69,8 @@ and improving my full-stack skills.
 - Multi-page navigation using **React Router**.
 
 ### 🔹 [DOM Mini Projects](https://dom-miniprojects.netlify.app/)
-A collection of interactive mini-projects built with **HTML, CSS, and JavaScript**, focusing on **DOM manipulation** and core web fundamentals.  
-📌 Includes: Counter App, To-Do List, Password Generator, Form Validator, Color Picker, Digital Clock, Calculator, and more!
+- A collection of interactive mini-projects built with **HTML, CSS, and JavaScript**, focusing on **DOM manipulation** and core web fundamentals.  
+📌 Includes: BGColor Changer, BMI Calculator, Guess the Number game and more!
 
 ---
 
