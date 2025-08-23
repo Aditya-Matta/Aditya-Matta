@@ -57,16 +57,18 @@ and improving my full-stack skills.
 - Used **useState, useEffect, and useRef hooks**.  
 
 ### 🔹 [Todo App (Context + LocalStorage)](https://github.com/Aditya-Matta/ReactJS/tree/main/10todocontextLocal)  
-- Task management app with persistent data using **React Context API + LocalStorage**.  
+- An enhanced To-Do app using **React Context API** and **local storage** to handle state globally and persist tasks across sessions. 
 
 ### 🔹 [Todo App (Redux Toolkit)](https://github.com/yourusername/reactjs/tree/main/todo-redux)  
 - Advanced Todo app with **Redux Toolkit** for state management.  
 
 ### 🔹 [Currency Converter](https://github.com/Aditya-Matta/ReactJS/tree/main/06currencyConverter)
-- Real-time currency converter using **REST APIs**.  
+- A live **currency conversion tool** that fetches rates from **REST APIs**.
+- Demonstrates **API integration, fetch requests, and dynamic calculations**.
 
 ### 🔹 [Multi-Route Website](https://github.com/Aditya-Matta/ReactJS/tree/main/07reactRouter)  
-- Multi-page navigation using **React Router**.
+- A **multi-page React site** with routing and **active link highlighting**.
+- Showcases **React Router** and reusable **Navbar components**.
 
 ### 🔹 [DOM Mini Projects](https://dom-miniprojects.netlify.app/)
 - A collection of interactive mini-projects built with **HTML, CSS, and JavaScript**, focusing on **DOM manipulation** and core web fundamentals.  
