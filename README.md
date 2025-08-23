@@ -81,7 +81,7 @@ and improving my full-stack skills.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-matta1922)  
 - 🌐 [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*  
-- 📧 Email: mattaaditya1905@example.com  
+- 📧 Email: mattaaditya1905@gmail.com  
 
 ---
-⭐️ From [AdityaMatta](https://github.com/Aditya-Matta)  
+⭐️ From [Aditya Matta](https://github.com/Aditya-Matta)  
