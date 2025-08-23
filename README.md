@@ -4,8 +4,11 @@
 
 🎓 2nd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
-🌱 Currently exploring **React ecosystem, Redux Toolkit, Appwrite**, and improving my full-stack skills.  
-
+🌱 ## 🚀 Currently Exploring  
+- React Ecosystem (deeper concepts, advanced hooks, performance optimisation)  
+- Redux & Redux Toolkit (state management for scalable apps)
+and improving my full-stack skills.
+  
 ---
 
 ## 🛠️ Tech Stack  
@@ -17,11 +20,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 
 ### ⚙️ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)  
@@ -67,16 +70,16 @@
 
 ## 📊 GitHub Stats  
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Matta&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Matta&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-matta1922)  
 - 🌐 [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*  
-- 📧 Email: your-email@example.com  
+- 📧 Email: mattaaditya1905@example.com  
 
 ---
-⭐️ From [AdityaMatta](https://github.com/yourusername)  
+⭐️ From [AdityaMatta](https://github.com/Aditya-Matta)  
