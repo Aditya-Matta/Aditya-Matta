@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋  
 
-<!--
-**Aditya-Matta/Aditya-Matta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Frontend Developer | React.js | SDE Intern @Upstox (hopefully 😄)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack  
+![React](https://img.shields.io/badge/-React-blue?logo=react) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) 
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)  
+
+---
+
+### 🔥 Projects  
+- [Portfolio Website](https://yourportfolio.com)  
+- [Currency Converter](https://link.com)  
+- [Todo App (Redux Toolkit)](https://link.com)  
+- [Password Generator](https://link.com)  
+
+---
+
+### 📊 GitHub Stats  
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamatta&show_icons=true&theme=tokyonight)  
+
+---
+
+✨ *"Debugging one bug at a time — LeakyCode"*  
