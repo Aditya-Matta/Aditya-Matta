@@ -7,6 +7,7 @@
 🌱 Currently Exploring  
 - React Ecosystem (deeper concepts, advanced hooks, performance optimisation)  
 - Redux & Redux Toolkit (state management for scalable apps)
+
 and improving my full-stack skills.
   
 ---
@@ -46,25 +47,25 @@ and improving my full-stack skills.
 
 ## 📌 Featured Projects  
 
-### 🔹 [VideoTube (Backend Clone of YouTube)](https://github.com/yourusername/videotube)  
-- Built a **backend clone of YouTube** using Node.js, Express.js, MongoDB, JWT Auth.  
+### 🔹 [VideoTube (Backend Clone of YouTube)](https://github.com/Aditya-Matta/VideoTube)  
+- Built a **backend clone of YouTube** using Node.js, Express.js, Mongoose, MongoDB, JWT Auth.  
 - Implemented authentication, video upload APIs, likes, comments, and subscriptions.  
 - Tested APIs using **Postman**.  
 
-### 🔹 [Password Generator](https://github.com/yourusername/reactjs/tree/main/5passwordGenerator)  
+### 🔹 [Password Generator](https://github.com/Aditya-Matta/ReactJS/tree/main/05passwordGenerator)  
 - React app to generate strong passwords with copy-to-clipboard feature.  
 - Used **useState, useEffect, and useRef hooks**.  
 
-### 🔹 [Todo App (Context + LocalStorage)](https://github.com/yourusername/reactjs/tree/main/10todoContextLocal)  
+### 🔹 [Todo App (Context + LocalStorage)](https://github.com/Aditya-Matta/ReactJS/tree/main/10todocontextLocal)  
 - Task management app with persistent data using **React Context API + LocalStorage**.  
 
 ### 🔹 [Todo App (Redux Toolkit)](https://github.com/yourusername/reactjs/tree/main/todo-redux)  
 - Advanced Todo app with **Redux Toolkit** for state management.  
 
-### 🔹 [Currency Converter](https://github.com/yourusername/reactjs/tree/main/currency-converter)  
+### 🔹 [Currency Converter](https://github.com/Aditya-Matta/ReactJS/tree/main/06currencyConverter)
 - Real-time currency converter using **REST APIs**.  
 
-### 🔹 [Multi-Route Website](https://github.com/yourusername/reactjs/tree/main/multi-route-website)  
+### 🔹 [Multi-Route Website](https://github.com/Aditya-Matta/ReactJS/tree/main/07reactRouter)  
 - Multi-page navigation using **React Router**.  
 
 ---
