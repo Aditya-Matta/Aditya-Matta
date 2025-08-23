@@ -68,7 +68,7 @@ and improving my full-stack skills.
 ### 🔹 [Multi-Route Website](https://github.com/Aditya-Matta/ReactJS/tree/main/07reactRouter)  
 - Multi-page navigation using **React Router**.
 
-### 🌐 [DOM Mini Projects](https://dom-miniprojects.netlify.app/)
+### 🔹 [DOM Mini Projects](https://dom-miniprojects.netlify.app/)
 A collection of interactive mini-projects built with **HTML, CSS, and JavaScript**, focusing on **DOM manipulation** and core web fundamentals.  
 📌 Includes: Counter App, To-Do List, Password Generator, Form Validator, Color Picker, Digital Clock, Calculator, and more!
 
