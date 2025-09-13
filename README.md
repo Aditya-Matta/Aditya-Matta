@@ -4,11 +4,11 @@
 
 🎓 2nd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
-🌱 Currently Learning
+🌱 Currently Exploring
 - Data Structures and Algorithms in C++
 - AI tools
+- Advanced Full Stack frameworks
 
-and improving my full-stack skills.
   
 ---
 
