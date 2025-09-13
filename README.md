@@ -4,9 +4,10 @@
 
 🎓 2nd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
-🌱 Currently Exploring  
-- React Ecosystem (deeper concepts, advanced hooks, performance optimisation)  
-- Redux & Redux Toolkit (state management for scalable apps)
+🌱 Currently Learning
+- Data Structures and Algorithms in C++
+- Full Stack web development in depth and its different frameworks
+- AI tools
 
 and improving my full-stack skills.
   
