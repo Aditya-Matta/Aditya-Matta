@@ -59,7 +59,7 @@ and improving my full-stack skills.
 ### 🔹 [Todo App (Context + LocalStorage)](https://github.com/Aditya-Matta/ReactJS/tree/main/10todocontextLocal)  
 - An enhanced To-Do app using **React Context API** and **local storage** to handle state globally and persist tasks across sessions. 
 
-### 🔹 [Todo App (Redux Toolkit)](https://github.com/yourusername/reactjs/tree/main/todo-redux)  
+### 🔹 [Todo App (Redux Toolkit)](https://github.com/Aditya-Matta/ReactJS/tree/main/reduxtoolkittodo)  
 - Advanced Todo app with **Redux Toolkit** for state management.  
 
 ### 🔹 [Currency Converter](https://github.com/Aditya-Matta/ReactJS/tree/main/06currencyConverter)
