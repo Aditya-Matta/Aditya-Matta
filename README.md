@@ -6,7 +6,6 @@
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
 🌱 Currently Learning
 - Data Structures and Algorithms in C++
-- Full Stack web development in depth and its different frameworks
 - AI tools
 
 and improving my full-stack skills.
