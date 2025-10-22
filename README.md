@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer | Full-Stack Developer | MERN Stack 
 
-🎓 2nd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
+🎓 3rd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
 
 🌱 Currently Exploring:
