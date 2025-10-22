@@ -78,10 +78,8 @@
 ---
 
 ## 📊 GitHub Stats  
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Matta&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Matta&layout=compact&theme=radical)  
-
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Matta)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Matta)](https://github.com/anuraghazra/github-readme-stats)]
 ---
 
 ## 📫 Connect with Me  
