@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Matta  
 
-🚀 Aspiring Software Engineer | Full-Stack Developer | MERN Stack 
+🚀 Aspiring Software Developer | Full-Stack Developer | MERN Stack 
 
 🎓 3rd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
