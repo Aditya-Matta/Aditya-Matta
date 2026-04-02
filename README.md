@@ -78,8 +78,7 @@
 ---
 
 ## 📊 GitHub Stats  
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Matta)](https://github.com/anuraghazra/github-readme-stats)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Matta)](https://github.com/anuraghazra/github-readme-stats)]
+![GitHub Stats](https://streak-stats.demolab.com?user=Aditya-Matta&theme=default&hide_border=true)
 ---
 
 ## 📫 Connect with Me  
