@@ -50,30 +50,38 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [VideoTube (Backend Clone of YouTube)](https://github.com/Aditya-Matta/VideoTube)  
+### [FinFlow – Finance Dashboard Web App](https://fin-flow-am.vercel.app)
+
+- Built a **responsive financial dashboard** using ReactJS, Tailwind CSS, and Context API
+- Implemented dark mode, role-based UI (Admin/Viewer), and dynamic filtering
+- Designed interactive charts and a transaction tracking system
+- Used Recharts and Lucid React for charts and icons
+- Deployed on **Vercel** with proper routing and production optimisations
+
+### [VideoTube (Backend Clone of YouTube)](https://github.com/Aditya-Matta/VideoTube)  
 - Built a **backend clone of YouTube** using Node.js, Express.js, Mongoose, MongoDB, JWT Auth.  
 - Implemented authentication, video upload APIs, likes, comments, and subscriptions.  
 - Tested APIs using **Postman**.  
 
-### 🔹 [Password Generator](https://github.com/Aditya-Matta/ReactJS/tree/main/05passwordGenerator)  
+### [Password Generator](https://github.com/Aditya-Matta/ReactJS/tree/main/05passwordGenerator)  
 - React app to generate strong passwords with copy-to-clipboard feature.  
 - Used **useState, useEffect, and useRef hooks**.  
 
-### 🔹 [Todo App (Context + LocalStorage)](https://github.com/Aditya-Matta/ReactJS/tree/main/10todocontextLocal)  
+### [Todo App (Context + LocalStorage)](https://github.com/Aditya-Matta/ReactJS/tree/main/10todocontextLocal)  
 - An enhanced To-Do app using **React Context API** and **local storage** to handle state globally and persist tasks across sessions. 
 
-### 🔹 [Todo App (Redux Toolkit)](https://github.com/Aditya-Matta/ReactJS/tree/main/reduxtoolkittodo)  
+### [Todo App (Redux Toolkit)](https://github.com/Aditya-Matta/ReactJS/tree/main/reduxtoolkittodo)  
 - Advanced Todo app with **Redux Toolkit** for state management.  
 
-### 🔹 [Currency Converter](https://github.com/Aditya-Matta/ReactJS/tree/main/06currencyConverter)
+### [Currency Converter](https://github.com/Aditya-Matta/ReactJS/tree/main/06currencyConverter)
 - A live **currency conversion tool** that fetches rates from **REST APIs**.
 - Demonstrates **API integration, fetch requests, and dynamic calculations**.
 
-### 🔹 [Multi-Route Website](https://github.com/Aditya-Matta/ReactJS/tree/main/07reactRouter)  
+### [Multi-Route Website](https://github.com/Aditya-Matta/ReactJS/tree/main/07reactRouter)  
 - A **multi-page React site** with routing and **active link highlighting**.
 - Showcases **React Router** and reusable **Navbar components**.
 
-### 🔹 [DOM Mini Projects](https://dom-miniprojects.netlify.app/)
+### [DOM Mini Projects](https://dom-miniprojects.netlify.app/)
 - A collection of interactive mini-projects built with **HTML, CSS, and JavaScript**, focusing on **DOM manipulation** and core web fundamentals.  
 📌 Includes: BGColor Changer, BMI Calculator, Guess the Number game and more!
 
