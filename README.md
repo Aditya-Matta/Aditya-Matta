@@ -66,18 +66,17 @@
 - Integrated bcrypt password hashing and scalable REST APIs
 - Production deployment on Railway and Vercel
 
-### [FinFlow – Finance Dashboard Web App](https://fin-flow-am.vercel.app)
-
-- Built a **responsive financial dashboard** using ReactJS, Tailwind CSS, and Context API
-- Implemented dark mode, role-based UI (Admin/Viewer), and dynamic filtering
-- Used Recharts and Lucid React for charts and icons
-- Deployed on **Vercel** with proper routing and production optimisations
-
 ### [VideoTube (Backend Clone of YouTube)](https://github.com/Aditya-Matta/VideoTube)  
 - Developed a scalable backend architecture for a YouTube-inspired platform using Node.js, Express.js, MongoDB, and JWT Authentication  
 - Implemented secure authentication, video upload APIs, likes, comments, subscriptions, and modular middleware-based routing
 - Integrated Cloudinary for media storage and reduce latency
-- Designed and tested RESTful APIs using Postman with optimized MongoDB data modeling through Mongoose  
+- Designed and tested RESTful APIs using Postman with optimized MongoDB data modeling through Mongoose
+-  
+### [FinFlow – Finance Dashboard Web App](https://fin-flow-am.vercel.app)
+- Built a **responsive financial dashboard** using ReactJS, Tailwind CSS, and Context API
+- Implemented dark mode, role-based UI (Admin/Viewer), and dynamic filtering
+- Used Recharts and Lucid React for charts and icons
+- Deployed on **Vercel** with proper routing and production optimisations
 
 ### [React Projects Collection](https://github.com/Aditya-Matta/ReactJS)
 - Developed multiple React-based applications including Todo App, Password Generator, Theme Switcher, and multi-page routing interfaces  
