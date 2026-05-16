@@ -60,6 +60,12 @@
 - Built secure REST APIs with Express, protecting routes using JWTs, HttpOnly cookies.
 - Designed a responsive Tailwind CSS interface and deployed via Vercel and Railway with 99.9% uptime
 
+### [Nexus Dashboard](https://nexus-dashboard-am.vercel.app)
+- Full-stack productivity dashboard with secure JWT authentication and protected routing workflows
+- Implemented Kanban task management, analytics dashboard and profile customization features, improving task organization efficiency by 35%
+- Integrated bcrypt password hashing and scalable REST APIs
+- Production deployment on Railway and Vercel
+
 ### [FinFlow – Finance Dashboard Web App](https://fin-flow-am.vercel.app)
 
 - Built a **responsive financial dashboard** using ReactJS, Tailwind CSS, and Context API
