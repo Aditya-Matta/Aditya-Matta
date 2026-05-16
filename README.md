@@ -62,7 +62,7 @@
 
 ### [Nexus Dashboard](https://nexus-dashboard-am.vercel.app)
 - Full-stack productivity dashboard with secure JWT authentication and protected routing workflows
-- Implemented Kanban task management, analytics dashboard and profile customization features, improving task organization efficiency by 35%
+- Implemented Kanban task management, analytics dashboard and profile customisation features, improving task organization efficiency by 35%
 - Integrated bcrypt password hashing and scalable REST APIs
 - Production deployment on Railway and Vercel
 
@@ -71,7 +71,7 @@
 - Implemented secure authentication, video upload APIs, likes, comments, subscriptions, and modular middleware-based routing
 - Integrated Cloudinary for media storage and reduce latency
 - Designed and tested RESTful APIs using Postman with optimized MongoDB data modeling through Mongoose
--  
+
 ### [FinFlow – Finance Dashboard Web App](https://fin-flow-am.vercel.app)
 - Built a **responsive financial dashboard** using ReactJS, Tailwind CSS, and Context API
 - Implemented dark mode, role-based UI (Admin/Viewer), and dynamic filtering
