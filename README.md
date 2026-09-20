@@ -95,7 +95,7 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-matta1922)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityamatta)  
 - 🌐 [Portfolio Website]() *(coming soon)*  
 - 📧 Email: mattaaditya1905@gmail.com  
 
