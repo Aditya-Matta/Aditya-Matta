@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Aditya Matta  
 
-🚀 Aspiring Software Developer | Full-Stack Developer | MERN Stack 
+🚀 Aspiring Software Developer | Full-Stack Developer | MERN Stack | RAG/LLMs
 
-🎓 3rd Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
+🎓 4th Year Year B.Tech (CST) student at Maharaja Agrasen Institute of Technology.  
 💻 Passionate about building **scalable web apps** with clean UI & efficient backend systems.  
 
 🌱 Currently Exploring:
 - Data Structures and Algorithms in C++
-- AI tools
+- AI/GenAI
 - Advanced Full Stack frameworks
 
 ---
@@ -36,9 +36,8 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23fff.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)  
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-
 
 ### 💻 Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
